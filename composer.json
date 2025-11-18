@@ -1,5 +1,5 @@
 {
-    "name": "pejman/agi",
+    "name": "pejmanaslani/agi",
     "description": "Modern, type-safe, fully tested PHP AGI client for Asterisk - 2025 Edition",
     "type": "library",
     "license": "MIT",
